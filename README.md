@@ -3,4 +3,5 @@ A hand-coded chess engine written in C that will later be converted into a neura
 
 
 #To Run
-./ChessAI
+
+./chessAI
